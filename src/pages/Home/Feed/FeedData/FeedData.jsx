@@ -8,7 +8,7 @@ const InstagramFeed = [
       mutualFrndImg1: "https://i.pinimg.com/564x/be/64/41/be64418150e34787f8bf2cb354c681b5.jpg",
       mutualFrndImg2: "https://i.pinimg.com/564x/2c/9a/10/2c9a10a126e1301d536e0a3c8091f035.jpg",
       likeCount: "1943",
-      caption: "Reflecting on the battles ahead.",
+      caption: "My fight, my rules sz.",
       commentCount: "132",
     },
     {
@@ -21,7 +21,7 @@ const InstagramFeed = [
       mutualFrndImg2: "https://i.pinimg.com/736x/a3/ed/41/a3ed418fe3bdb6dcb6445f83f3b8d9a2.jpg",
       likeCount: "2932",
       caption:
-        "Serving cuntness.",
+        "Always on target.",
       commentCount: "100",
     },
     {
@@ -33,7 +33,7 @@ const InstagramFeed = [
       mutualFrndImg1: "https://i.pinimg.com/564x/be/64/41/be64418150e34787f8bf2cb354c681b5.jpg",
       mutualFrndImg2: "https://i.pinimg.com/736x/a3/ed/41/a3ed418fe3bdb6dcb6445f83f3b8d9a2.jpg",
       likeCount: "32",
-      caption: "Love you to the moon and back, sister",
+      caption: "Love and war go hand in hand",
       commentCount: "4",
     },
     {
@@ -46,7 +46,7 @@ const InstagramFeed = [
       mutualFrndImg2: "https://i.pinimg.com/enabled/564x/52/41/17/524117b82fb4404b7bc1ad5c546d17f0.jpg",
       likeCount: "234",
       caption:
-        "This is the woman of my life. Love you eternally, Brina.",
+        "Fast, deadly, unseen",
       commentCount: "100",
     },
     {
@@ -58,7 +58,7 @@ const InstagramFeed = [
       mutualFrndImg1: "https://i.pinimg.com/736x/6d/98/1c/6d981cd924bb0a58b697f7a635c051fc.jpg",
       mutualFrndImg2: "https://i.pinimg.com/564x/ab/08/e1/ab08e17e89486c707d26b85e73f38a9e.jpg",
       likeCount: "1232",
-      caption: "Tell Jesus that the bitc... i mean, witches are back.",
+      caption: "The storm doesn't pick sides.",
       commentCount: "160",
     },
   ];
